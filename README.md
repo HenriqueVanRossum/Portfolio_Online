@@ -1,4 +1,4 @@
-# 🚀 Portfólio Pessoal – Project Link Tree
+# Portfólio Pessoal – Project Link Tree
 
 Este repositório contém meu portfólio pessoal em formato link tree, desenvolvido para apresentar projetos, sites e experiências de forma objetiva, moderna e elegante.
 
@@ -146,6 +146,24 @@ Basta alterar o valor de `--accent` para adaptar à sua identidade.
 - Roxo vibrante: `#a855f7`
 - Laranja quente: `#ff6b35`
 - Amarelo ouro: `#ffd700`
+
+### 5️⃣ Currículo
+
+Para adicionar seu currículo em PDF:
+
+**1. Substitua o arquivo:**
+- Coloque seu currículo na pasta `assets/cv/`
+- Nome recomendado: `Seu-Nome-CV.pdf`
+
+**2. Atualize o link no `index.html`:**
+```html
+<a href="assets/cv/Seu-Nome-CV.pdf" class="cv-button" target="_blank" rel="noopener">
+    <svg>...</svg>
+    Ver Currículo
+</a>
+```
+
+**Dica:** Mantenha o nome do arquivo sem espaços e acentos para evitar problemas de URL.
 
 ## 🚀 Deploy no GitHub Pages
 
