@@ -9,8 +9,8 @@ O layout combina estética editorial/brutalist, animações suaves e micro-inter
 Se você gostou deste portfólio e quer usar como base para o seu, basta clonar o repositório:
 
 ```bash
-git clone https://github.com/HenriqueVanRossum/Portifolio_Online.git
-cd Portifolio_Online
+git clone https://github.com/HenriqueVanRossum/Portfolio_Online.git
+cd Portfolio_Online
 ```
 
 Depois, siga as instruções de personalização abaixo para adaptar ao seu perfil.
